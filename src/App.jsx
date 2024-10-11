@@ -10,3 +10,4 @@ const App = () => {
 };
 
 export default App;
+rm -r -force .git
